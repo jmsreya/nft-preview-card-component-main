@@ -12,11 +12,9 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,10 +29,11 @@ Users should be able to:
 
 ![](./screenshot.png)
 
+
 ### Links
 
-- Solution URL: [](https://github.com/jmsreya/nft-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/jmsreya/nft-preview-card-component-main]
+- Live Site URL: [https://jmsreya.github.io/nft-preview-card-component-main/]
 
 ## My process
 
@@ -84,11 +83,10 @@ This was my first Frontend Mentor challenge and plan to continue these challenge
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Jonathan Ayers](https://www.ayersdesignz.com)
+- Frontend Mentor - [@jmsreya](https://www.frontendmentor.io/profile/jmsreya)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
