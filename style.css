@@ -44,10 +44,6 @@ body {
     backface-visibility: hidden;
 }
 
-.nft-img:hover {
-    cursor: pointer;
-}
-
 .view {
     position: absolute;
     top: 110px;
@@ -68,6 +64,7 @@ body {
 
 .nft-img-overlay:hover {
     opacity: 1;
+    cursor: pointer;
 }
 
 
