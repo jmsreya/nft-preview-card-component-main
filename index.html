@@ -3,9 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
-
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet"> 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
+  <link rel="stylesheet" href="style.css">
   <title>Frontend Mentor | NFT preview card component</title>
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
@@ -15,19 +17,39 @@
   </style>
 </head>
 <body>
+  <section>
+    <div class="card">
+      <div class="img-box">
+        <img class="nft-img" src="/images/image-equilibrium.jpg" alt="Ethereum Image">
+        <div class="nft-img-overlay">
+          <img class="view" src="/images/icon-view.svg" alt="View NFT Image">
+        </div>
+        </div>
+        <h2>Equilibrium #3429</h2>
+        <p class="information">Our Equilibrium collection promotes balance and calm.</p>
 
-  Equilibrium #3429
-
-  Our Equilibrium collection promotes balance and calm.
-
-  0.041 ETH
-  3 days left
+      <div class="amounts">
+        <img class="eth-img" src="/images/icon-ethereum.svg" alt="ethereum-icon">
+        <p class="nft-value">0.041 ETH</p>
+        <img class="clock-icon" src="/images/icon-clock.svg" alt="clock-icon">
+        <p class="time">3 days left</p>
+      </div>
   
-  Creation of Jules Wyvern
+        <hr>
+  
+        <div class="artist">
+          <img class="artist-img" src="/images/image-avatar.png" alt="Artist Image">
+          <p class="artist-text">
+            <span>Creation of </span> Jules Wyvern</p>
+          </div>
+  
+      </div>
+    </div>
+  </section>
 
   <div class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
+    Coded by <a href="#">Jonathan Ayers</a>.
   </div>
 </body>
 </html>
